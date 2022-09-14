@@ -1,5 +1,9 @@
 # Just for fun project
 
+SLS document must be
+ - has location information on the first page
+ - has respondent list information on the second page and so on
+
 ## Installation
 
 install tesseract-ocr, you can download from [here]([https://](https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows)).
